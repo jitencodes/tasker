@@ -39,6 +39,6 @@ npm start
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-##### Made with ♥ by <a href="https://github.com/jitencodes">ishandeveloper</a>
+##### Made with ♥ by <a href="https://github.com/jitencodes">jitendra</a>
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/jitencodes)
