@@ -10,7 +10,7 @@ Built with ❤️ in <b>React.js</b>
 
 #### View Live Demo
 
-  <pre><center><a href="https://jitendra-codes.github.io/tasker/"><b>HERE!</b></a></center></pre>
+  <pre><center><a href="https://jitencodes.github.io/tasker/"><b>HERE!</b></a></center></pre>
 
 ## Setup
 
